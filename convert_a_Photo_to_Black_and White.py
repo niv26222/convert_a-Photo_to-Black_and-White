@@ -12,4 +12,8 @@ def black_and_white(input_image_path, output_image_path):
 
 
 if __name__ == ' __main__' :
-        black_and_white('pycoders.jpg', 'bw_pycoders.jpg')        
+        black_and_white('pycoders.jpg', 'bw_pycoders.jpg')
+        
+        
+        
+        
